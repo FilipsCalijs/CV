@@ -2,6 +2,9 @@
 
 Welcome to my project repository! Here you will find information about me and examples of my work in various fields, including design, frontend development, and more.
 
+## Current job: 
+From July 1, 2024, I began working at Entez company as a junior SEO specialist. Currently I am working at part-time job on a sales website, PBN, link building and much more.
+
 ## Contents
 
 1. [Resume (CV)](#resume-cv)
